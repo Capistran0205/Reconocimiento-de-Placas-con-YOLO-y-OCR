@@ -1,0 +1,16 @@
+# Ignorar el entorno virtual (ajusta el nombre si usas otro)
+.venv/
+venv/
+env/
+yolov8n.pt
+EjemploBasicoYolo.py
+Carretera_video_placasv3.mp4
+Recursos/
+
+# Ignorar archivos compilados de Python (basura)
+__pycache__/
+*.pyc
+
+# Ignorar variables de entorno (SEGURIDAD)
+.env
+.DS_Store
